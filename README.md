@@ -192,11 +192,11 @@ Limited accessibility	Global verification access
 👨‍💻 Development Team
 
 Kareeb Sadab
-B.Sc. in Computer Science & Engineering
+(B.Sc. in Computer Science & Engineering)
 Chittagong University of Engineering and Technology
 
 Rohan Singh
-B.Sc. in Computer Science & Engineering
+(B.Sc. in Computer Science & Engineering)
 Chittagong University of Engineering and Technology
 
 Specialization: Blockchain and Distributed Systems
